@@ -92,9 +92,9 @@ Download MySQL Workbench, follow the setup wizard & create a localhost server on
 <details>
 <summary><strong>SQL Workbench Configuration</strong></summary>
 <ol>
-<li>Create an appsetting.Development.json file in the "SkatePark" directory  
+<li>Create an appsettings.Development.json file in the "SkatePark" directory  
    <pre>SkatePark
-   └── appsetting.json</pre>
+   └── appsettings.Development.json</pre>
 
 <li> Insert the following code: <br>
 
