@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "CretaceousPark": {
+    "SkateRate": {
       "commandName": "Project",
       "dotnetRunMessages": "true",
       "launchBrowser": true,

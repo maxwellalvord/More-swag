@@ -137,7 +137,7 @@ namespace SkateRate.Controllers
       return NoContent();
     }
 
-
+    // GET: api/Parks/5
     [HttpGet("{id}")]
     public async Task<ActionResult<Park>> GetPark(int id)
     {
